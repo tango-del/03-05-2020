@@ -1,1 +1,1 @@
-# 03-05-2020
+# Hillel 2020 Introduction course
